@@ -1,7 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0503f62-9e9f-4126-8882-5f51d39ad414" name="Default" comment="" />
+    <list default="true" id="c0503f62-9e9f-4126-8882-5f51d39ad414" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/dao/ScheduleDataDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/dao/UserDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/db/DataConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/filter/LoginFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/managedbean/ScheduleDataMB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/managedbean/UserMB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/jsf/model/ScheduleData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/dao/ScheduleDataDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/dao/UserDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/db/DataConnection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/filter/LoginFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/managedbean/ScheduleDataMB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/managedbean/UserMB.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/classes/com/jsf/model/ScheduleData.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/faces-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/lib/jsf-api-2.2.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/lib/jsf-impl-2.2.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/lib/primefaces-6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/lib/sqlite-jdbc-3.20.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/login.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/main.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/page2.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/registration.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/css/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/API.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/FAQ.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/NEWS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/PLUGINS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-eu-gdp-growth-1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-eu-gdp-growth-2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-eu-gdp-growth-3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-eu-gdp-growth-4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-eu-gdp-growth-5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-eu-gdp-growth.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-japan-gdp-growth.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/data-usa-gdp-growth.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/ajax/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/annotating/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-interacting/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-multiple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/africa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/antarctica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/asia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/australasia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/backward" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/etcetera" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/europe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/factory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/iso3166.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/leapseconds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/northamerica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/pacificnew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/solar87" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/solar88" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/solar89" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/southamerica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/systemv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/yearistype.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time-zones/tz/zone.tab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/axes-time/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/basic-options/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/basic-usage/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/canvas/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/categories/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/examples.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/image/hs-2004-27-a-large-web.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/image/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/interacting/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/navigate/arrow-down.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/navigate/arrow-left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/navigate/arrow-right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/navigate/arrow-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/navigate/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/percentiles/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/realtime/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/resize/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/selection/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/series-errorbars/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/series-pie/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/series-toggle/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/series-types/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/shared/jquery-ui/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/shared/jquery-ui/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/stacking/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/symbols/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/threshold/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/tracking/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/visitors/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/examples/zooming/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.colorhelpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.colorhelpers.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.canvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.canvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.categories.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.categories.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.crosshair.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.crosshair.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.errorbars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.errorbars.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.fillbetween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.fillbetween.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.image.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.navigate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.navigate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.pie.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.resize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.selection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.selection.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.stack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.stack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.symbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.symbol.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.threshold.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.threshold.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.time.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.flot.time.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/flot/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/jquery-1.12.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/js/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/templates/header.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/templates/myscript2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/jsf/resources/templates/plot.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,6 +300,9 @@
       <find>size</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -210,12 +367,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1831" />
     <option name="y" value="40" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -467,8 +625,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -477,9 +634,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19010417" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19010417" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
